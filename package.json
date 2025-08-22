@@ -1,0 +1,13 @@
+{
+  "name": "display-project",
+  "version": "1.0.0",
+  "description": "A simple web project for display",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["web", "html", "css", "javascript"],
+  "author": "",
+  "license": "MIT"
+}
